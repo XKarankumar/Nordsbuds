@@ -1,0 +1,6 @@
+{
+  "name": "NordBuds Premium",
+  "description": "AMOLED black and crimson Bluetooth audio companion for OnePlus Nord Buds 3 Pro and Vivo X300 with real Android Equalizer, Bass Boost, battery telemetry, and secure update center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

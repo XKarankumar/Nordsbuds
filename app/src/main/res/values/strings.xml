@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NordBuds Premium</string>
+    <string name="brand_tagline">PRECISION ACOUSTIC COMPANION</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_audio">Audio &amp; EQ</string>
+    <string name="nav_updates">Updates</string>
+    <string name="nav_diagnostics">System</string>
+    <string name="cd_earbuds_hero">OnePlus Nord Buds 3 Pro hardware render</string>
+    <string name="cd_acoustic_glow">Acoustic wave emblem</string>
+    <string name="cd_back">Navigate back</string>
+</resources>
